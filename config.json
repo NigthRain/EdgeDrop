@@ -1,0 +1,16 @@
+{
+  "categories": {
+    "项目A卷宗": {
+      "path": "D:\\Local\\ProjectA",
+      "color": "#007ACC"
+    },
+    "财务报表": {
+      "path": "Z:\\SMB_Share\\Finance",
+      "color": "#E81123"
+    },
+    "个人图库": {
+      "path": "E:\\Photos",
+      "color": "#107C10"
+    }
+  }
+}
